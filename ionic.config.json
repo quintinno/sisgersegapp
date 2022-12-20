@@ -1,0 +1,7 @@
+{
+  "name": "sisgersegapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
